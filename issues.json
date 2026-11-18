@@ -1,0 +1,282 @@
+{
+  "version": "1.0.0",
+  "review_date": "2026-11-18",
+  "issues": [
+    {
+      "id": "R01",
+      "claim_ids": [
+        "CAND.GINC.014"
+      ],
+      "topic": "U.S. cash and hospital use",
+      "status": "closed",
+      "reviewed_this_pass": false,
+      "decision": "Previously closed",
+      "finding": "In the August 13, 2026 working paper, the multiple-testing-adjusted q-values in Table 9 are .031 for emergency-department care, .052 for hospital care and .224 for the broader hospital-care family index. The paper distinguishes the individual measures from the combined index. These outcomes measure use of care.",
+      "remaining_limit": "A cost estimate would require actual service costs and comparable usage data.",
+      "sources": [
+        {
+          "label": "Table 9, printed p. 42",
+          "url": "https://www.nber.org/system/files/working_papers/w32711/w32711.pdf"
+        }
+      ]
+    },
+    {
+      "id": "R02",
+      "claim_ids": [
+        "CAND.GINC.013",
+        "CAND.GINC.014"
+      ],
+      "topic": "U.S. cash and health over time",
+      "status": "narrowed",
+      "reviewed_this_pass": true,
+      "decision": "Still open",
+      "finding": "The 1% upper-bound language applies to selected health measures. The broader summary uses about 2%. The paper reports early improvements in some measures of stress, distress and food security and little evidence of sustained gains. The public-use data guide documents alterations that may affect replication.",
+      "remaining_limit": "Exact annual estimates, standard errors and the scaling used in inconsistent figure notes need paper-specific output. The guide describes those replication materials as forthcoming.",
+      "sources": [
+        {
+          "label": "Miller et al., August 2026, pp. 3, 21–22 and appendix figures",
+          "url": "https://www.nber.org/papers/w32711"
+        },
+        {
+          "label": "Study data guide",
+          "url": "https://data.openresearchlab.org/using-data/index.html"
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "claim_ids": [
+        "CAND.GINC.015",
+        "CAND.GINC.016"
+      ],
+      "topic": "U.S. cash, spending and net worth",
+      "status": "narrowed",
+      "reviewed_this_pass": true,
+      "decision": "Still open",
+      "finding": "In the September 15, 2026 author version, monthly household spending increased by an estimated $310 (standard error $64, 2,988 observations). Estimated net worth changed by −$1,000 (standard error $3,400, 2,981 observations). At that precision both quoted upper bounds of $5,600 and $5,700 are plausible. Assignment was $1,000 versus $50 monthly.",
+      "remaining_limit": "The price year and denominator behind the reported 4.5% remain unverified. The net-worth estimate allows both gains and losses.",
+      "sources": [
+        {
+          "label": "Bartik et al., Tables 4 and 15",
+          "url": "https://www.alexbartik.com/papers/ORUS_Consumption_Sep2026.pdf"
+        },
+        {
+          "label": "Study data documentation",
+          "url": "https://data.openresearchlab.org/using-data/documentation.html"
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "claim_ids": [
+        "CAND.HDEBT.013"
+      ],
+      "topic": "Rotterdam welfare receipt",
+      "status": "narrowed",
+      "reviewed_this_pass": true,
+      "decision": "Still open",
+      "finding": "The journal and appendix both print a coefficient of .005, standard error .014 and 95% confidence interval [−.020, .036]. The interval includes zero. Its midpoint is .008.",
+      "remaining_limit": "A correction or versioned regression output is needed to determine which numbers the authors intended. The review preserves the printed entries.",
+      "sources": [
+        {
+          "label": "Published paper, Table 2, Panel B, p. 9",
+          "url": "https://hdl.handle.net/1887/4308417"
+        },
+        {
+          "label": "Journal appendix C.3",
+          "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0047272726001313-mmc1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "R05",
+      "claim_ids": [
+        "CAND.HDEBT.012",
+        "CAND.HDEBT.014",
+        "CAND.HDEBT.015"
+      ],
+      "topic": "Rotterdam welfare-debt write-off",
+      "status": "closed",
+      "reviewed_this_pass": true,
+      "decision": "Closed this pass within the named study and accounting scope",
+      "finding": "Rotterdam wrote off time-barred welfare debts for 3,205 people in December 2019. The program report gives about €6,000 per debtor and a remaining municipal accounting charge of about €1 million after much of the expected loss had already been recorded in the accounts. The journal's two-year medication estimates depend on the method. One estimate was −1.1 percentage points (standard error 0.5) using instrumented differences in changes over time, and +0.3 points (standard error 2.1) using the eligibility cutoff. Employment estimates were +4.1 points (standard error 1.7) in the larger-balance subgroup and −1.9 points (standard error 1.8) in the smaller one.",
+      "remaining_limit": "The accounting figure comes from the researchers’ program report. The underlying council financial attachment was inaccessible. The full cash cost and forgone collections are unknown. The subgroups do not establish what would happen if the same person had a larger debt forgiven.",
+      "sources": [
+        {
+          "label": "Leiden final program report, May 2023, §4.1, p. 23",
+          "url": "https://www.universiteitleiden.nl/binaries/content/assets/rechtsgeleerdheid/fiscaal-en-economische-vakken/economie/bijstandsschulden-gemeente-rotterdam/eindrapport---bijstandsschulden-bij-de-gemeente-rotterdam.pdf#page=23"
+        },
+        {
+          "label": "Journal Tables 2–3",
+          "url": "https://doi.org/10.1016/j.jpubeco.2026.105695"
+        },
+        {
+          "label": "Journal appendix, Table C.3",
+          "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0047272726001313-mmc1.pdf"
+        }
+      ]
+    },
+    {
+      "id": "R06",
+      "claim_ids": [
+        "CAND.HDEBT.003"
+      ],
+      "topic": "U.S. medical debt and subsequent default",
+      "status": "closed",
+      "reviewed_this_pass": false,
+      "decision": "Previously closed",
+      "finding": "Four quarters after relief, the journal reports an estimated change of −.02 accounts at least 90 days past due in its hospital experiment (standard error .01, unadjusted p = .290, adjusted p = .553), and −.001 in its collector experiment (standard error .01, unadjusted p = .946, adjusted p = .995). Neither result establishes that relief reduced later default.",
+      "remaining_limit": "The published tests use greater precision than the rounded coefficients. A forecast for different debts or households would need separate evidence.",
+      "sources": [
+        {
+          "label": "Journal Table IV",
+          "url": "https://academic.oup.com/view-large/511633340"
+        }
+      ]
+    },
+    {
+      "id": "R07",
+      "claim_ids": [
+        "CAND.HDEBT.001",
+        "CAND.HDEBT.002",
+        "CAND.HDEBT.004",
+        "CAND.HDEBT.005"
+      ],
+      "topic": "U.S. medical-debt study denominators",
+      "status": "narrowed",
+      "reviewed_this_pass": true,
+      "decision": "Still open",
+      "finding": "The journal reports 2,761 people for the Table V credit-reporting sample. The Figure II credit-score panel contains 2,397 people with scores throughout. Its code raises a possible reversal of the group labels. Table VII includes 1,802 control and 1,086 treatment survey respondents from 14,922 invitees. The study also reported more debt subsequently sent to collections.",
+      "remaining_limit": "The regression-specific number of people contributing to Table V's credit-score result is still unknown. The authors’ prebuilt aggregate output corroborates the general count. Substituting the figure count would assume identical samples.",
+      "sources": [
+        {
+          "label": "Journal Tables V–VII and Figure II",
+          "url": "https://academic.oup.com/qje/article/140/2/1187/7933321"
+        },
+        {
+          "label": "Authors’ replication archive, v1.2",
+          "url": "https://doi.org/10.7910/DVN/WY6QQO"
+        }
+      ]
+    },
+    {
+      "id": "R08",
+      "claim_ids": [
+        "CAND.HDEBT.016",
+        "CAND.HDEBT.017",
+        "CAND.HDEBT.018",
+        "UBI.DJ.013"
+      ],
+      "topic": "Singapore debt relief",
+      "status": "open_design",
+      "reviewed_this_pass": false,
+      "decision": "Open by design, carried forward",
+      "finding": "The researchers studied 196 people before and after receiving debt relief. Clearing more accounts was associated with differences in anxiety and cognitive performance, conditional on the amount relieved.",
+      "remaining_limit": "Every participant received relief. Estimating what would have happened to comparable people who received none requires a credible comparison group. The 392 before-and-after observations represent 196 people.",
+      "sources": [
+        {
+          "label": "Singapore study",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30910964/"
+        }
+      ]
+    },
+    {
+      "id": "R09",
+      "claim_ids": [
+        "CAND.GINC.008",
+        "CAND.GINC.009",
+        "UBI.PR.006"
+      ],
+      "topic": "German cash pilot and follow-up",
+      "status": "closed_original_open_followup",
+      "reviewed_this_pass": true,
+      "decision": "Original question closed this pass, one follow-up open",
+      "finding": "All 107 people in the final payment group completed all six survey waves. Two initial recipients were replaced and seven controls withdrew after notification. The estimated change in administrative employment was −0.3 percentage points (standard error 2.5, 99 treated and 1,278 controls). Table 2 of the March 22 well-being manuscript distinguishes its life-satisfaction index (+0.426 baseline standard deviations, standard error .075) from its single general-life-satisfaction measure (+0.351, standard error .080). The mental-health index improved by .306 baseline standard deviations (standard error .074).",
+      "remaining_limit": "The named March 2026 papers resolve the original question about recipients and statistical uncertainty. An added question remains open about exact control response counts at each survey wave. Overall, 71% of controls completed all six. Survey participation was a condition of the German payments. The proposed Cook County pilot would keep essentials available to people who decline research.",
+      "sources": [
+        {
+          "label": "Well-being paper, Table 2, p. 13 and attrition, p. 25",
+          "url": "https://maxkasy.github.io/home/files/papers/cash_mentalhealth_agency.pdf"
+        },
+        {
+          "label": "Labor paper, March 28 version, Tables 2–3",
+          "url": "https://oms-inet.files.svdcdn.com/production/files/Basic_Income_And_Labor_Supply_Evidence_From_An_RCT_In_Germany_WP_Mar_26.pdf"
+        }
+      ]
+    },
+    {
+      "id": "R10",
+      "claim_ids": [
+        "CAND.HDEBT.019",
+        "CAND.HDEBT.020",
+        "UBI.DJ.012"
+      ],
+      "topic": "India repayment frequency and stress",
+      "status": "narrowed",
+      "reviewed_this_pass": true,
+      "decision": "Still open",
+      "finding": "The methods supplement accounts for 200 analyzed clients from 210 invitations, 23 withdrawals and 13 replacements. The two reported recruitment groups sum to 223. The paper separately describes 213 participants. It reports less financial stress with a different repayment schedule. Dividing the adjusted Table 1 difference of .134 by the control mean of .256 gives 52.3%.",
+      "remaining_limit": "The participant totals and the narrative 45% reduction still lack a reconciliation. Retain the direction and the alternative figures. The intervention changed payment timing and did not forgive the debt.",
+      "sources": [
+        {
+          "label": "PLOS article, Table 1 and Figure 1",
+          "url": "https://doi.org/10.1371/journal.pone.0045679"
+        },
+        {
+          "label": "Methods supplement",
+          "url": "https://doi.org/10.1371/journal.pone.0045679.s005"
+        }
+      ]
+    },
+    {
+      "id": "R11",
+      "claim_ids": [
+        "UBI.PX.009",
+        "UBI.PX.010"
+      ],
+      "topic": "Philippine cash transfers, prices and child growth",
+      "status": "narrowed",
+      "reviewed_this_pass": true,
+      "decision": "Still open for the final main table",
+      "finding": "The study's 15% figure describes an income shock in the village. The raw stunting gap among young children in ineligible households was 11 percentage points. The working paper's adjusted estimate was +12.3 points (standard error 6.0, N = 303). The accepted manuscript reports +11.8 points (standard error 5.9, N = 323). The publisher's supplement confirms +11.8 in two sensitivity analyses, each with 151 control-village and 172 program-village observations. The working paper gives an average log egg-price effect of .017 (standard error .014) and an interaction with the share eligible of .164 (standard error .072).",
+      "remaining_limit": "The 2023 typeset main table still needs direct inspection. The supplement varies the treatment of extreme values. Retain the adverse outcome for ineligible children alongside the authors’ reported gains for eligible children. The share eligible was not randomized.",
+      "sources": [
+        {
+          "label": "World Bank working paper, Tables 2 and 5",
+          "url": "https://documents1.worldbank.org/curated/en/989031522077749796/pdf/Cash-Transfers-Food-Prices-and-Nutrition-Impacts-on-Nonbeneficiary-Children.pdf"
+        },
+        {
+          "label": "2021 accepted manuscript, Table 5",
+          "url": "https://www.academia.edu/100416051/Cash_Transfers_Food_Prices_and_Nutrition_Impacts_on_Ineligible_Children"
+        },
+        {
+          "label": "Publisher, see supplementary materials, Annex 3, Tables 1–2",
+          "url": "https://doi.org/10.1162/rest_a_01061"
+        },
+        {
+          "label": "Replication deposit v1.1",
+          "url": "https://doi.org/10.7910/DVN/SGJDLC"
+        }
+      ]
+    }
+  ],
+  "scenario": {
+    "classification": "assumed fixed enrollment for five years",
+    "adults": 1000,
+    "monthly_payment_usd": 1000,
+    "years": 5,
+    "annual_transfers_usd": 12000000,
+    "five_year_transfers_usd": 60000000,
+    "partial_five_year_reference_usd": 167705000,
+    "cash_already_in_partial_reference": true,
+    "complete_cost_usd": null,
+    "verified_corporate_commitment_usd": null,
+    "detention_savings_usd": null,
+    "wall_removal_cost_usd": null,
+    "national_gdp_change_usd": null,
+    "households": 500,
+    "private_debt_relief_recipients_within_cohort": 50,
+    "dependent_children": null,
+    "eligibility": "Pending immigration proceedings, individually permitted community residence and accommodation needs."
+  }
+}

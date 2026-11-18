@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this version when referring to the evidence review."
+title: "Cash, debt relief and a hospitality approach to immigration reform"
+type: dataset
+authors:
+  - family-names: Weis
+    given-names: Aaron Michael
+    affiliation: Oneiron Holdings LLC
+    orcid: "https://orcid.org/0009-0002-1906-148X"
+version: "1.0.0"
+date-released: "2026-11-18"
+preferred-citation:
+  type: report
+  title: "Cash, debt relief and a hospitality approach to immigration reform"
+  authors:
+    - family-names: Weis
+      given-names: Aaron Michael
+      orcid: "https://orcid.org/0009-0002-1906-148X"
+  year: 2026
+  version: "1.0.0"

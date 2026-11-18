@@ -1,0 +1,23 @@
+{
+  "upload_type": "publication",
+  "publication_type": "report",
+  "title": "Cash, debt relief and a hospitality approach to immigration reform",
+  "version": "1.0.0",
+  "description": "A source-level review of eleven questions about cash transfers and debt relief for the design of a voluntary hospitality pilot in Cook County, Illinois. The report records estimates, uncertainty, versions, and outstanding evidence. It provides a separate planning example for cash payments.",
+  "creators": [
+    {
+      "name": "Weis, Aaron Michael",
+      "affiliation": "Oneiron Holdings LLC",
+      "orcid": "0009-0002-1906-148X"
+    }
+  ],
+  "license": "other-closed",
+  "access_right": "open",
+  "keywords": [
+    "cash transfers",
+    "debt relief",
+    "immigration policy",
+    "evidence review",
+    "Cook County"
+  ]
+}
